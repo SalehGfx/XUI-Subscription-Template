@@ -8,7 +8,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/SalehGfx/xui-subscription-template/refs/heads/main/main.sh )
+bash <(curl -Ls https://raw.githubusercontent.com/gfx-git/xui-subscription-template/refs/heads/main/main.sh )
 ```
 
 ## Configuration File
